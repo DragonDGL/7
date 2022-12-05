@@ -15,7 +15,7 @@ import DatabaseLogicReferalCode
 import DatabaseLogicStat
 import KeybordClass
 
-YOUR_CODE = '5747215917:AAH4HoCg5DOMaBE4DqHnWJn6On4qwr2YRGU'
+YOUR_CODE = '5414097757:AAFMOFYFIm4GrYci1CCJ8Jru9xkMWPxU8uw'
 
 logging.basicConfig(
     format='[%(levelname)s] %(name)s (%(lineno)d) >> %(module)s.%(funcName)s: %(message)s',
